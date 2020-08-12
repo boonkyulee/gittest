@@ -9,5 +9,6 @@
 <body>
 test1.jsp 수정
 upadate2
+myupdate
 </body>
 </html>
