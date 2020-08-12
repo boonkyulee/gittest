@@ -10,7 +10,7 @@
 test1.jsp 수정
 upadate2S
 myupdate
-
+korean
 gitupdate
 </body>
 </html>
