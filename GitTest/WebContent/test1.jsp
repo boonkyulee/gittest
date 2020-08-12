@@ -8,7 +8,9 @@
 </head>
 <body>
 test1.jsp 수정
-upadate2
+upadate2S
 myupdate
+
+gitupdate
 </body>
 </html>
